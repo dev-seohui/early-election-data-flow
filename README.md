@@ -16,10 +16,12 @@
 - Etc :
 ---
 #### 📌 4. 파이프라인
-- 데이터 수집
-  - [중앙선거여론조사심의위원회](https://nesdc.go.kr/portal/main.do) : 장래 대선 주자 적합도 및 정당 지지율 수집
-  - [네이버 뉴스 API]() : 네이버 뉴스 기사 수집
-  - [주식 API](): 관련주 주가 수집
+- 배치 데이터 출처
+  - [중앙선거여론조사심의위원회](https://nesdc.go.kr/portal/main.do) : 장래 대선 주자 적합도 및 정당 지지율 추출
+  - [Yahoo Finance API]() : 주식 시가 및 종가 데이터 추출
+    
+- ETL 파이프라인
+  
 ---
 #### 📌 5. ERD
 - 
@@ -28,10 +30,12 @@
 - 
 ---
 #### 📌 7. 참고 자료
-- [정치테마주 기승…23곳 무더기 상한가, 뉴시스(신문), 2024.12.05](https://www.donga.com/news/Economy/article/all/20241205/130572929/1)
-- [정치 테마주, 전례 없는 급등락... 얼마나 올랐길래?, 김혜인 기자, 뉴스톱, 2025.01.27](https://www.newstof.com/news/articleView.html?idxno=26266)
-- [계엄 후 정치테마주 ‘기승’···투자주의종목 4년8개월만에 최대, 경향신문, 김경민 기자, 2025.01.26](https://www.khan.co.kr/article/202501261156001)
-- 
+- [KRX | 정보데이터시스템](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd) : 주식 종목 코드 수집
+- [뉴시스(신문), 정치테마주 기승…23곳 무더기 상한가, 2024.12.05](https://www.donga.com/news/Economy/article/all/20241205/130572929/1) : 정치 테마주 수집
+- [김혜인 기자, 정치 테마주, 전례 없는 급등락... 얼마나 올랐길래?, 뉴스톱, 2025.01.27](https://www.newstof.com/news/articleView.html?idxno=26266) : 정치 테마주 수집
+- [김경민 기자, 계엄 후 정치테마주 ‘기승’···투자주의종목 4년8개월만에 최대, 경향신문, 2025.01.26](https://www.khan.co.kr/article/202501261156001) : 정치 테마주 수집
+- [신민경 기자, "정치 판갈이한다" 이준석 사실상 대선 출마선언…테마주 급등, 한국경제, 2025.02.03](https://www.hankyung.com/article/2025020387376) : 정치 테마주 수집
+- [핀업](https://stock.finup.co.kr/) : 정치 테마주 수집
 ---
 #### 📌 8. 회고
 - 블로그
