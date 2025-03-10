@@ -10,16 +10,17 @@
 - 프로젝트 일정 
 ---
 #### 📌 3. 활용 기술
-- Database :
-- Front/Back :
-- Deploy :
-- Etc :
+- Database : PostgreSQL
+- Big Data Tool : Airflow
+- Front/Back : 
+- Deploy : 
+- Etc : Git, Jira
 ---
 #### 📌 4. 파이프라인
 - 배치 데이터 출처
   - [중앙선거여론조사심의위원회](https://nesdc.go.kr/portal/main.do) : 장래 대선 주자 적합도 및 정당 지지율 추출
   - [Yahoo Finance API]() : 주식 시가 및 종가 데이터 추출
-    
+  - [Naver Developers API]()  
 - ETL 파이프라인
   
 ---
