@@ -10,13 +10,13 @@
 - 프로젝트 일정 
 ---
 #### 📌 3. 활용 기술
-Programming : Python, SQL
-Databases : PostgreSQL
-Back/Front : Django, 
-Big Data Tools : Airflow
-Version Control : Git, GitHub
-Visualisation Tools: Tableau
-Etc : Docker
+- Programming : Python, SQL
+- Databases : PostgreSQL
+- Back/Front : Django 
+- Big Data Tools : Airflow
+- Version Control : Git, GitHub
+- Visualisation Tools: Tableau
+- Etc : Docker
 ---
 #### 📌 4. 파이프라인
 - 배치 데이터 출처
