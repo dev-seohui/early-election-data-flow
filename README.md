@@ -16,7 +16,6 @@
 #### 📌 3. 활용 기술
 - Programming : Python, SQL
 - Databases : PostgreSQL
-- Back/Front : Django 
 - Big Data Tools : Airflow
 - Version Control : Git, GitHub
 - Visualisation Tools: Tableau
@@ -26,6 +25,7 @@
 - 배치 데이터 출처
   - [중앙선거여론조사심의위원회](https://nesdc.go.kr/portal/main.do) : 장래 정치 지도자 후보자 적합도 및 정당 지지율 추출
   - [Yahoo Finance API](https://github.com/ranaroussi/yfinance) : 주식 시가 및 종가 데이터 추출
+  - [Pytrends](https://github.com/GeneralMills/pytrends) : 구글 트랜드 지수 추출
   - [Naver Developers](https://developers.naver.com/docs/serviceapi/search/blog/blog.md#%EB%B8%94%EB%A1%9C%EA%B7%B8) : 네이버 뉴스 맟 불로그 언급량 추출
 - ETL 파이프라인
   
